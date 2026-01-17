@@ -3,7 +3,7 @@ Selamat datang di repositori tempat saya mendokumentasikan perjalanan belajar Cy
 
 ### 📊 Statistik Belajar (TryHackMe)
 <p align="left">
-  <a href="https://tryhackme.com/p/yanuarp555">
+  <a href="https://tryhackme.com/p/yanuarp55">
     <img src="https://tryhackme-badges.s3.amazonaws.com/yanuarp55.png" alt="Your Image Badge" />
   </a>
 </p>
