@@ -26,7 +26,7 @@ I am currently sharpening my skills in **Cyber Security** through hands-on chall
 
 <a href="https://tryhackme.com/p/yanuarp555">
 
-  [<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6619794" style='border:none;'></iframe>](https://tryhackme-badges.s3.amazonaws.com/yanuarp555.png?update=3)
+<img src="https://tryhackme-badges.s3.amazonaws.com/yanuarp555.png" alt="Your Image Badge" />
 
 </a>
 
