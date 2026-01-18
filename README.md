@@ -6,7 +6,7 @@
 
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=target" />
 
-  <img src="https://img.shields.io/badge/Learning-TryHackMe-blue?style=for-the-badge&logo=tryhackme" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/yanuarp555.png" alt="Your Image Badge" />
 
 </p>
 
